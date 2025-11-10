@@ -1,7 +1,7 @@
 """
     Group project
 
-    Emon, Manpreet, Parpoop, Tehillah
+    Emon, Manpreet, Prabhroop, Tehillah
 
     Pupose: Tracking peoples budget
 """
